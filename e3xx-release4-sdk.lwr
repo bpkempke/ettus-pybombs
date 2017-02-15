@@ -73,5 +73,7 @@ packages:
     forceinstalled: true
   mako:
     forceinstalled: true
+  six:
+    forceinstalled: true
   wget:
     forceinstalled: true
